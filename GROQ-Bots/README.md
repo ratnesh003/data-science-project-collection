@@ -1,6 +1,6 @@
 # 🚀 GROQ Bot - AI Chatbot Powered by Groq API 🤖 - 🔴[LIVE](https://groq-bots-web-app.streamlit.app/)
 
-![GROQ Bot](https://groq.com/wp-content/uploads/2024/03/PBG-mark1-color.svg)
+![GROQ Bot](./thumbnail.png)
 
 ## 🎯 Introduction
 
@@ -32,7 +32,7 @@ Ensure you have the following installed:
 #### 1. **Clone the Repository** 📂
 
 ```bash
-git clone https://github.com/yourusername/groq-bot.git
+git clone https://github.com/ratnesh003/data-science-project-collection.git .
 cd groq-bot
 ```
 
