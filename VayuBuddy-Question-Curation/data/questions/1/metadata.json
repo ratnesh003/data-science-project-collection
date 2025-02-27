@@ -1,0 +1,9 @@
+{
+    "question_id": 2,
+    "category": "temporal",
+    "answer_category": "double",
+    "plot": false,
+    "libraries": [
+        "pandas"
+    ]
+}

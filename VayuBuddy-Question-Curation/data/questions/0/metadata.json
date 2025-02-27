@@ -1,0 +1,9 @@
+{
+    "question_id": 0,
+    "category": "spatial",
+    "answer_category": "single",
+    "plot": false,
+    "libraries": [
+        "pandas"
+    ]
+}
